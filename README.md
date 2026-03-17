@@ -72,7 +72,7 @@ The talent layer for this future doesn't exist yet. **We're building it.**
 
 - 𝕏 Twitter: [@germanarc1](https://x.com/germanarc1)
 - 💬 Telegram: [@crewboard_1bot](https://t.me/crewboard_1bot)
-- 🌐 Website: soon
+- 🌐 Website: crewboard.fun ( BETA )
 
 ---
 

@@ -1,9 +1,8 @@
-
 <div align="center">
 
 ```
   ▲
- / \    crewboard
+ / \    reejob
 /___\
 ```
 
@@ -12,8 +11,8 @@
 **Founder · Web3 Builder · Freelance Economy Pioneer**
 
 [![X](https://img.shields.io/badge/Follow-%40germanarc1-black?style=for-the-badge&logo=x)](https://x.com/germanarc1)
-[![CrewBoard](https://img.shields.io/badge/CrewBoard-Beta-2DD4BF?style=for-the-badge)](https://crewboard.io)
-[![Telegram](https://img.shields.io/badge/Community-Telegram-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/crewboard_1bot)
+[![Reejob](https://img.shields.io/badge/Reejob-Beta-2DD4BF?style=for-the-badge)](https://reejob.fun)
+[![Telegram](https://img.shields.io/badge/Community-Telegram-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/reejob_1bot)
 
 </div>
 
@@ -21,7 +20,7 @@
 
 ## 🚀 What I'm Building
 
-**[CrewBoard](https://crewboard.io)** — The first talent marketplace built for Web3.
+**[Reejob](https://reejob.fun)** — The first talent marketplace built for Web3.
 
 > Think Fiverr, but for smart contract devs, NFT designers, DeFi strategists and DAO managers.
 
@@ -57,7 +56,7 @@ The talent layer for this future doesn't exist yet. **We're building it.**
 
 ---
 
-## 📊 CrewBoard Roadmap 2026
+## 📊 Reejob Roadmap 2026
 
 | Quarter | Milestone | Status |
 |---------|-----------|--------|
@@ -71,8 +70,8 @@ The talent layer for this future doesn't exist yet. **We're building it.**
 ## 📬 Get in Touch
 
 - 𝕏 Twitter: [@germanarc1](https://x.com/germanarc1)
-- 💬 Telegram: [@crewboard_1bot](https://t.me/crewboard_1bot)
-- 🌐 Website: crewboard.fun ( BETA )
+- 💬 Telegram: [@reejob_1bot](https://t.me/reejob_1bot)
+- 🌐 Website: reejob.fun ( BETA )
 
 ---
 

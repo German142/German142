@@ -11,7 +11,7 @@
 **Founder · Web3 Builder · Freelance Economy Pioneer**
 
 [![X](https://img.shields.io/badge/Follow-%40germanarc1-black?style=for-the-badge&logo=x)](https://x.com/germanarc1)
-[![Reejob](https://img.shields.io/badge/Reejob-Beta-2DD4BF?style=for-the-badge)](https://reejob.fun)
+[![Reejob](https://img.shields.io/badge/Reejob-Beta-2DD4BF?style=for-the-badge)](https://ree-job.com)
 [![Telegram](https://img.shields.io/badge/Community-Telegram-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/reejob_1bot)
 
 </div>
@@ -20,7 +20,7 @@
 
 ## 🚀 What I'm Building
 
-**[Reejob](https://reejob.fun)** — The first talent marketplace built for Web3.
+**[Reejob](https://ree-job.com)** — The first talent marketplace built for Web3.
 
 > Think Fiverr, but for smart contract devs, NFT designers, DeFi strategists and DAO managers.
 
@@ -71,7 +71,7 @@ The talent layer for this future doesn't exist yet. **We're building it.**
 
 - 𝕏 Twitter: [@germanarc1](https://x.com/germanarc1)
 - 💬 Telegram: [@reejob_1bot](https://t.me/reejob_1bot)
-- 🌐 Website: reejob.fun ( BETA )
+- 🌐 Website: ree-job.com ( BETA )
 
 ---
 
